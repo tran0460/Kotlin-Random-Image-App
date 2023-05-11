@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Assignment2_Son_Tran</string>
+    <string name="getImageButton">Button</string>
+    <string name="get_image_button_text">Get Image</string>
+    <string name="image_description">Image</string>
+    <string name="last_image_file_name">lastImage.jpg</string>
+    <string name="last_url_key">LAST_URL</string>
+    <string name="gallery_folder_name">RWA</string>
+    <string name="save_permission_denied">Save Permission Denied by User</string>
+    <string name="bitmap_compress_error">Bitmap Compress Error</string>
+    <string name="file_stream_error">File Stream Error</string>
+    <string name="message_title">Network error</string>
+    <string name="message_text">No internet connection</string>
+    <string name="quit">Quit</string>
+</resources>
